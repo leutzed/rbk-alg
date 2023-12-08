@@ -5,13 +5,13 @@
       "name": "Sune",
       "img": "https://images.pexels.com/photos/1555199/pexels-photo-1555199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "alg": "R U R' U R U2 R'",
-      "category": "Cross"
+      "category": "Dot"
     },
     {
       "index": 2,
       "name": "Xupex",
       "img": "https://images.pexels.com/photos/1555199/pexels-photo-1555199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "alg": "R U R' U R U2 R'",
+      "alg": "R U R' U R U2 R' images.pexels.com/photos/1555199",
       "category": "Cross"
     },
     {
@@ -19,7 +19,7 @@
       "name": "OLL 3",
       "img": "https://images.pexels.com/photos/1555199/pexels-photo-1555199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "alg": "R U R' U R U2 R'",
-      "category": "OLL"
+      "category": "Dot"
     },
     {
       "index": 4,

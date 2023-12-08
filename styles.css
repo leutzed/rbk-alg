@@ -17,6 +17,18 @@ main {
   margin: 2vh 8vw;
 }
 
+.flex {
+  display: flex;
+}
+
+.align {
+  align-items: center;
+}
+
+.justify {
+  justify-content: center;
+}
+
 div.content {
   display: grid;
   grid-template-columns: 1fr 2fr 7fr;
