@@ -10,7 +10,7 @@ fetch("oll.json")
         <div class="content">
           <div>${item.index}</div>
           <div class="image-block">
-            <img src="${item.img}" alt="${item.name}">
+            <img style="height: 4rem; width: 4rem;" src="${item.img}" alt="${item.name}">
           </div>
           <div class="alg">${item.alg}</div>
         </div>
@@ -18,5 +18,3 @@ fetch("oll.json")
     });
     document.querySelector("#olls").innerHTML = mappedOll.join("");
   });
-
-

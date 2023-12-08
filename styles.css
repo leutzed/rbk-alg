@@ -19,6 +19,6 @@ main {
 
 div.content {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 2fr 7fr;
   margin: 2rem 0;
 }
