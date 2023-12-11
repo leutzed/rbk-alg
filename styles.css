@@ -49,7 +49,11 @@ main {
 }
 
 #number-name {
-  
+  text-align: center;
+}
+
+#number-name p.number {
+  border-bottom: 1px solid black;
 }
 
 div.content {
