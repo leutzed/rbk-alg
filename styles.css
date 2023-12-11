@@ -29,8 +29,38 @@ main {
   justify-content: center;
 }
 
+.column {
+  flex-direction: column;
+}
+
+.alg {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.altAlg {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.img-case {
+  height: 6rem; 
+  width: 6rem;
+}
+
+#number-name {
+  
+}
+
 div.content {
   display: grid;
   grid-template-columns: 1fr 2fr 7fr;
   margin: 2rem 0;
+}
+
+.category {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 1rem;
+  margin-top: 1rem;
+  padding: 1rem 0;
 }
