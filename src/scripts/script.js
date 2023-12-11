@@ -20,7 +20,7 @@ fetch("oll.json")
           <div class="content align">
             <div class="flex justify">${item.index}</div>
             <div class="image-block flex justify">
-              <img style="height: 4rem; width: 4rem;" src="${item.img}" alt="${item.name}">
+              <img style="height: 4rem; width: 4rem; rotate: ${item.rotate}deg;" src="${item.img}" alt="${item.name}">
             </div>
             <div class="alg flex justify">${item.alg}</div>
           </div>
