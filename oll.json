@@ -23,7 +23,7 @@
     {
       "index": 3,
       "name": "OLL 3",
-      "img": "./src/assets/oll/3.svg",
+      "img": "./src/assets/oll/03.svg",
       "alg": "R U R' U R U2 R'",
       "alternativeAlg": "",
       "category": "Dot",
@@ -33,7 +33,7 @@
     {
       "index": 4,
       "name": "OLL 4",
-      "img": "./src/assets/oll/4.svg",
+      "img": "./src/assets/oll/04.svg",
       "alg": "R U R' U R U2 R'",
       "alternativeAlg": "",
       "category": "OLL",
@@ -43,7 +43,7 @@
     {
       "index": 5,
       "name": "Xupex",
-      "img": "./src/assets/oll/5.svg",
+      "img": "./src/assets/oll/05.svg",
       "alg": "R U R' U R U2 R'",
       "alternativeAlg": "",
       "category": "Dot",
@@ -53,7 +53,7 @@
     {
       "index": 6,
       "name": "Xupex",
-      "img": "./src/assets/oll/6.svg",
+      "img": "./src/assets/oll/06.svg",
       "alg": "R U R' U R U2 R'",
       "alternativeAlg": "",
       "category": "Dot",
@@ -63,7 +63,7 @@
     {
       "index": 7,
       "name": "OLL 3",
-      "img": "./src/assets/oll/7.svg",
+      "img": "./src/assets/oll/07.svg",
       "alg": "R U R' U R U2 R'",
       "alternativeAlg": "",
       "category": "OLL",
@@ -73,7 +73,7 @@
     {
       "index": 8,
       "name": "OLL 4",
-      "img": "./src/assets/oll/8.svg",
+      "img": "./src/assets/oll/08.svg",
       "alg": "R U R' U R U2 R'",
       "alternativeAlg": "",
       "category": "OLL",
@@ -83,7 +83,7 @@
     {
       "index": 9,
       "name": "Xupex",
-      "img": "./src/assets/oll/9.svg",
+      "img": "./src/assets/oll/09.svg",
       "alg": "R U R' U R U2 R'",
       "alternativeAlg": "",
       "category": "Dot",

@@ -1,0 +1,24 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="400" rx="16" transform="matrix(-1 0 0 1 400 0)" fill="black"/>
+<rect width="100" height="100" rx="16" transform="matrix(-1 0 0 1 360 150)" fill="#FFFF00"/>
+<rect width="100" height="100" rx="16" transform="matrix(-1 0 0 1 360 40)" fill="#FFFF00"/>
+<path d="M360 15H260V15C260 23.2843 266.716 30 275 30H345C353.284 30 360 23.2843 360 15V15Z" fill="#606060"/>
+<path d="M260 385H360V385C360 376.716 353.284 370 345 370H275C266.716 370 260 376.716 260 385V385Z" fill="#606060"/>
+<path d="M385 140V40V40C376.716 40 370 46.7157 370 55V125C370 133.284 376.716 140 385 140V140Z" fill="#606060"/>
+<path d="M15 40L15 140V140C23.2843 140 30 133.284 30 125L30 55C30 46.7157 23.2843 40 15 40V40Z" fill="#606060"/>
+<path d="M385 250V150V150C376.716 150 370 156.716 370 165V235C370 243.284 376.716 250 385 250V250Z" fill="#606060"/>
+<path d="M15 150L15 250V250C23.2843 250 30 243.284 30 235L30 165C30 156.716 23.2843 150 15 150V150Z" fill="#FFFF00"/>
+<path d="M385 360V260V260C376.716 260 370 266.716 370 275V345C370 353.284 376.716 360 385 360V360Z" fill="#606060"/>
+<path d="M15 260L15 360V360C23.2843 360 30 353.284 30 345L30 275C30 266.716 23.2843 260 15 260V260Z" fill="#606060"/>
+<path d="M250 15H150V15C150 23.2843 156.716 30 165 30H235C243.284 30 250 23.2843 250 15V15Z" fill="#606060"/>
+<path d="M150 385H250V385C250 376.716 243.284 370 235 370H165C156.716 370 150 376.716 150 385V385Z" fill="#FFFF00"/>
+<path d="M140 15H40V15C40 23.2843 46.7157 30 55 30H125C133.284 30 140 23.2843 140 15V15Z" fill="#FFFF00"/>
+<path d="M40 385H140V385C140 376.716 133.284 370 125 370H55C46.7157 370 40 376.716 40 385V385Z" fill="#FFFF00"/>
+<rect width="100" height="100" rx="16" transform="matrix(-1 0 0 1 250 150)" fill="#FFFF00"/>
+<rect width="100" height="100" rx="16" transform="matrix(-1 0 0 1 250 40)" fill="#FFFF00"/>
+<rect width="100" height="100" rx="16" transform="matrix(-1 0 0 1 140 150)" fill="#606060"/>
+<rect width="100" height="100" rx="16" transform="matrix(-1 0 0 1 140 40)" fill="#606060"/>
+<rect width="100" height="100" rx="16" transform="matrix(-1 0 0 1 360 260)" fill="#FFFF00"/>
+<rect width="100" height="100" rx="16" transform="matrix(-1 0 0 1 250 260)" fill="#606060"/>
+<rect width="100" height="100" rx="16" transform="matrix(-1 0 0 1 140 260)" fill="#606060"/>
+</svg>
