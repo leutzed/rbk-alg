@@ -5,6 +5,25 @@
   font-family: "Monaco", monospace;
 }
 
+header {
+  margin-top: 2vh;
+}
+
+header p {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  margin-bottom: 1rem;
+}
+
+a:visited {
+  color: black;
+}
+
 div.title {
   text-align: center;
 }

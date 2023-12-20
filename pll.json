@@ -1,0 +1,194 @@
+{
+  "plls": [
+    {
+      "index": 1,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios",
+      "rotate": "0"
+    },
+    {
+      "index": 2,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios",
+      "rotate": "0"
+    },
+    {
+      "index": 3,
+      "name": "H",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios",
+      "rotate": "0"
+    },
+    {
+      "index": 4,
+      "name": "Z",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios",
+      "rotate": "0"
+    },
+    {
+      "index": 5,
+      "name": "A(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 6,
+      "name": "A(b)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 7,
+      "name": "E",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 8,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 9,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 10,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 11,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 12,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 13,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 14,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 15,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 16,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 17,
+      "name": "N(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 18,
+      "name": "N(b)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "R' U R U' R' F' U' F R U R' F R' F' R U' R",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 19,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 20,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    },
+    {
+      "index": 21,
+      "name": "U(a)",
+      "img": "/src/assets/pll/aa.svg",
+      "alg": "(R U2) (R2' F R F' U2') (R' F R F')",
+      "alternativeAlg": "",
+      "category": "Meios e Cantos",
+      "rotate": "0"
+    }
+  ]
+}
+    
