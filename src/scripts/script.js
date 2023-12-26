@@ -81,7 +81,9 @@ fetch("../../oll.json")
               <p class="name">${item.name}</p>
             </div>
             <div class="image-block flex justify">
+            <a href="${item.video}">
               <img class="img-case" style="rotate: ${item.rotate}deg;" src="${item.img}" alt="${item.name}">
+            </a>
             </div>
             <div class="flex justify align column">
               <p class="alg">${item.alg}</p>
