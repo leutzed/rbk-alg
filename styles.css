@@ -17,8 +17,11 @@ header p {
 
 a {
   text-decoration: none;
-  margin-bottom: 1rem;
   color: black;
+}
+
+a.home {
+  margin: 1rem 0;
 }
 
 a:visited {
