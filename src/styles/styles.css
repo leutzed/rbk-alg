@@ -1,0 +1,90 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Monaco", monospace;
+}
+
+header {
+  margin-top: 2vh;
+}
+
+header p {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  margin-bottom: 1rem;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+div.title {
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2vh 8vw;
+}
+
+.flex {
+  display: flex;
+}
+
+.align {
+  align-items: center;
+}
+
+.justify {
+  justify-content: center;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.alg {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.altAlg {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.img-case {
+  height: 6rem;
+  width: 6rem;
+}
+
+#number-name {
+  text-align: center;
+}
+
+#number-name p.number {
+  border-bottom: 1px solid black;
+}
+
+div.content {
+  display: grid;
+  grid-template-columns: 1fr 2fr 7fr;
+  margin: 2rem 0;
+}
+
+.category {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 1rem;
+  margin-top: 1rem;
+  padding: 1rem 0;
+}
