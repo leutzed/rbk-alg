@@ -1,4 +1,4 @@
-fetch("../../oll.json")
+fetch("../data/oll.json")
   .then((response) => response.json())
   .then((data) => {
     console.log(data);
@@ -50,7 +50,7 @@ fetch("../../oll.json")
     document.querySelector("#olls").innerHTML = mappedOll.join("");
   });
 
-  fetch("../../pll.json")
+  fetch("../data/pll.json")
   .then((response) => response.json())
   .then((data) => {
     console.log(data);
